@@ -1,5 +1,6 @@
 
 # UNITY 3D FPS 서바이벌 디펜스 프로젝트
+![image](https://github.com/www90kr/Unity_FPS3D/assets/118443929/3eeebfde-40ad-4bd1-abdf-a897a753bc9f)
 
 ## 기간
   2023. 9 ~ 2023.10
